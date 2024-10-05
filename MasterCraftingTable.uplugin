@@ -1,0 +1,18 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "27575E724DB4E0F689631E99F2811432",
+	"FriendlyName": "Master Crafting Table",
+	"Description": "Adds a new crafting station capable of crafting Wood and Stone structures&cf_ugcID=947907",
+	"Category": "UGC",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "https://www.curseforge.com/ark-survival-ascended/mods/master-crafting-table",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"ExplicitlyLoaded": true
+}
